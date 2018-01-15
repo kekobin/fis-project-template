@@ -1,0 +1,9 @@
+{
+	"name": "fis_app",
+	"version": "1.0.0",
+	"description": "fis_app",
+	"scripts": {
+		"dev": "fis3 release -w",
+		"prod": "fis3 release prod"
+	}
+}
